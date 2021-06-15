@@ -1,9 +1,7 @@
 
 ![Logo](https://i.imgur.com/8CiFMl3.png)
 
-    
-# Vênalista
-
+   
 Aplicativo para Android de lista de compras feito em React Native com TypeScript.
 
 [![Venalista](https://img.shields.io/badge/version-v1.1.0-brightgreen?style=for-the-badge&=appveyor)](https://Venalista.com.br/)
