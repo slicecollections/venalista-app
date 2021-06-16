@@ -5,9 +5,9 @@
    
 Aplicativo para Android de lista de compras feito em React Native com TypeScript.
 
-[![Venalista](https://img.shields.io/badge/version-v1.1.0-brightgreen?style=for-the-badge&=appveyor)](https://Venalista.com.br/)
-[![Slice Collections](https://img.shields.io/badge/Product-Slice%20Co.-blueviolet?style=for-the-badge&=appveyor)](https:/slice.co/)
-[![license](https://img.shields.io/badge/License-Venalista-informational?style=for-the-badge&=appveyor)](https://Venalista.com.br/licensa/)
+[![Github Version](https://img.shields.io/github/v/tag/slicecollections/venalista-app?color=brightgreen&label=version&style=for-the-badge&=appveyor)](https://img.shields.io/github/v/tag/slicecollections/venalista-app?color=brightgreen&label=version&style=for-the-badge&=appveyor)
+[![Slice Co.](https://img.shields.io/badge/Product-Slice%20Co.-blueviolet?style=for-the-badge&=appveyor)](https://img.shields.io/badge/Product-Slice%20Co.-blueviolet?style=for-the-badge&=appveyor)
+[![License](https://img.shields.io/badge/License-Venalista-informational?style=for-the-badge&=appveyor)](https://img.shields.io/badge/License-Venalista-informational?style=for-the-badge&=appveyor)
 
   
 ## 💻 Sobre o projeto
@@ -32,6 +32,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Editor: [Visual Studio Code](https://code.visualstudio.com/)
 - Mobile: [React Native](https://reactjs.org/) + [Typescript](https://www.typescriptlang.org/)
 - Ícones: [Feather Icons](https://feathericons.com/)
+- Animações: [Lottie Files](https://lottiefiles.com/)
 
   
 ## 🦸 Autores
