@@ -30,7 +30,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - Protótipo: [Figma](https://figma.com/)
 - Editor: [Visual Studio Code](https://code.visualstudio.com/)
-- Mobile: [React Native](https://reactjs.org/) + [Typescript](https://www.typescriptlang.org/)
+- Mobile: [React Native](https://reactnative.dev/) + [Typescript](https://www.typescriptlang.org/)
 - Ícones: [Feather Icons](https://feathericons.com/)
 - Animações: [Lottie Files](https://lottiefiles.com/)
 
