@@ -7,7 +7,7 @@ Aplicativo para Android de lista de compras feito em React Native com TypeScript
 
 [![Github Version](https://img.shields.io/github/v/tag/slicecollections/venalista-app?color=brightgreen&label=version&style=for-the-badge&=appveyor)](https://img.shields.io/github/v/tag/slicecollections/venalista-app?color=brightgreen&label=version&style=for-the-badge&=appveyor)
 [![Slice Co.](https://img.shields.io/badge/Product-Slice%20Co.-blueviolet?style=for-the-badge&=appveyor)](https://img.shields.io/badge/Product-Slice%20Co.-blueviolet?style=for-the-badge&=appveyor)
-[![License](https://img.shields.io/badge/License-Venalista-informational?style=for-the-badge&=appveyor)](https://img.shields.io/badge/License-Venalista-informational?style=for-the-badge&=appveyor)
+[![License](https://img.shields.io/badge/License-MIT-informational?style=for-the-badge&=appveyor)](https://img.shields.io/badge/License-MIT-informational?style=for-the-badge&=appveyor)
 
   
 ## 💻 Sobre o projeto
